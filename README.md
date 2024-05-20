@@ -24,3 +24,11 @@ Personalized Recipe Generation: Through natural language processing and generati
 Intelligent Expiration Tracking: Utilizing computer vision and NLP, the EcoFridge can accurately identify and track the expiration dates of stored items, alerting users before items spoil and need to be consumed or discarded.
 Voice-Enabled Virtual Assistant: Powered by OpenAI's language models and speech recognition/synthesis technologies, the built-in virtual assistant provides a natural and intuitive interface for users to interact with the EcoFridge, ask questions, and receive reminders or suggestions through voice commands.
 Ethical AI Development: Throughout the development process, we prioritized ethical considerations such as data privacy, bias mitigation, and responsible AI deployment. We ensured robust security measures, diverse and inclusive training data, and adherence to AI ethics principles.
+
+Our Demo Video
+
+
+
+https://github.com/Beuro/BUS118/assets/23394299/bdd0913e-71b5-486e-86f5-010f7290cb9b
+
+
